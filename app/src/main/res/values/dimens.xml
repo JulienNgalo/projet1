@@ -1,0 +1,17 @@
+<resources>
+    <dimen name="dix">10dp</dimen>
+    <dimen name="onze">11dp</dimen>
+    <dimen name="douze">12dp</dimen>
+    <dimen name="quinze">15dp</dimen>
+    <dimen name="fab_margin">16dp</dimen>
+    <dimen name="dix_sept">17dp</dimen>
+
+    <dimen name="dix_neuf">19dp</dimen>
+
+    <dimen name="vingt_cinq">25sp</dimen>
+
+    <dimen name="quarante_six">46sp</dimen>
+
+    <dimen name="cent_cinquante">150dp</dimen>
+
+</resources>
